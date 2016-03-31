@@ -19,6 +19,7 @@
         </div>
         <div id="content">
             <h2>Зарегистрированные в системе пользователи</h2>
+            <p>php storm commit</p>
             <table>
                 <tr>
                     <th>ФИО</th>
